@@ -60,7 +60,7 @@
 ### ¿Cómo usarlo?.
 #### Instalación
 
-* Instalar Node.js v8.10.0 LTS
+* Instalar [Node.js v8.10.0 LTS](https://nodejs.org/en/)
 * Clonar este proyecto en tu equipo con `git clone git@github.com:OSWeekends/kienba.git`
 * Ejecutar `npm install`
 * Abre tu navegador en `https://localhost:3000`
