@@ -14,17 +14,17 @@
 
 > App web para coger turnos y hacer preguntas al profesor o profesora/conferenciate/organizadora de eventos
 
-[] TODO: ![Logo de {{proyecto}}]({{LOGO URL}})
+[ ] TODO: ![Logo de {{proyecto}}]({{LOGO URL}})
 
-[] TODO: En esta sección haremos una breve descripción de lo que va hacer nuestro proyecto
+[ ] TODO: En esta sección haremos una breve descripción de lo que va hacer nuestro proyecto
 
 **Motivación**
 
-[] TODO: Demos un sentido... ¿por qué estamos haciendo esto?
+[ ] TODO: Demos un sentido... ¿por qué estamos haciendo esto?
 
 ### Equipo
 
-[] TODO: Rellenar con nuestros datos
+[ ] TODO: Rellenar con nuestros datos
  - [Aida Adalaber @Alienah](github.com/Alienah) (Contributor - ROL)
  - [Carlos Azaustre @carlosazaustre](ghitub.com/carlosazaustre) (Contributor - Frontend/Firebase)
  - ...
@@ -42,7 +42,7 @@
 
 ### Demo
 
-[] TODO: Información de dónde puede verse funcionar... si es posible
+[ ] TODO: Información de dónde puede verse funcionar... si es posible
 
 ### Tecnología utilizada
 
@@ -53,7 +53,7 @@
 - **Vue.js v2**: Frontend para la SPA
 
 ### Cómo contribuir en el proyecto
-[] TODO: Pequeña descripción motivante para enganchar con l@s potenciales contributors
+[ ] TODO: Pequeña descripción motivante para enganchar con l@s potenciales contributors
 
 **Más informacion en [CONTRIBUTING.md](CONTRIBUTING.md)**
 
@@ -72,7 +72,7 @@
 
 ### Releases anteriores
 
-[] TODO:
+[ ] TODO:
 #### [{{Fecha}} {{Nombre release}} {{Version}}]({{Link a la release}})
 - {{Feature añadido o bug resuelto}}. [{{Número del issues}}]({{Link al issue}})
 - ...

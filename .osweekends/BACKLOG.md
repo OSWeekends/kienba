@@ -6,7 +6,7 @@ Es un documento muy vivo, por lo que te recomendamos que lo revises cada poco ti
 
 #### Backlog producto
 
-[] TODO: Aquí se definen todas las funcionalidades que componen nuestro producto final.
+[ ] TODO: Aquí se definen todas las funcionalidades que componen nuestro producto final.
 
 - **Completar README:** Completar el README con los datos del equipo.
 - **Definir Roles:** Definir que va hacer cada integrante del equipo y en que puede ayudar.
@@ -14,7 +14,7 @@ Es un documento muy vivo, por lo que te recomendamos que lo revises cada poco ti
 
 #### Backlog técnico
 
-[] TODO: Aquí se definen todas las funcionalidades de caracter técnico que necsitamos desarrollar/integrar en nuestro producto
+[ ] TODO: Aquí se definen todas las funcionalidades de caracter técnico que necsitamos desarrollar/integrar en nuestro producto
 
 - **Proyecto en Firebase:** Crear un proyecto en Firebase
 - **Modelo de Datos:** Definir la estructura de la base de datos en Cloud FireStore.
@@ -23,7 +23,7 @@ Es un documento muy vivo, por lo que te recomendamos que lo revises cada poco ti
 
 #### Otros elementos
 
-[] TODO: Aquí se definen todos lso elementos que no forman parte de del desarrollo del prodcuto tecnológico pero sí de su ciclo de vida como por ejemplo campañas promocionales en redes sociales, branding, etc...
+[ ] TODO: Aquí se definen todos lso elementos que no forman parte de del desarrollo del prodcuto tecnológico pero sí de su ciclo de vida como por ejemplo campañas promocionales en redes sociales, branding, etc...
 
 - **{{Nombre elemento}}:** {{Descripción Corta}}
 - ...
@@ -31,7 +31,7 @@ Es un documento muy vivo, por lo que te recomendamos que lo revises cada poco ti
 
 #### Roadmap
 
-[] TODO: Aquí definimos lo que esperamos implementar de manera "muy generica" en próximas releases
+[ ] TODO: Aquí definimos lo que esperamos implementar de manera "muy generica" en próximas releases
 
 **{{Nombre de la release}} {{Número de Sprint}}:**
 - Objetivos:

@@ -9,15 +9,15 @@
 
 ### ¿Cómo trabajamos aquí?
 
-[] TODO: Breve descripción de como funcionamos
+[ ] TODO: Breve descripción de como funcionamos
 
 **Testing**
 
-[] TODO: Añadir y definir si es relevante
+[ ] TODO: Añadir y definir si es relevante
 
 **Guía de estilos**
 
-[] TODO: Añadir referencia a la documentación si es relevante
+[ ] TODO: Añadir referencia a la documentación si es relevante
 
 **Utilizamos Git Flow y esperamos gestionar los cambios con Pull Resquest(PR)**
 
@@ -27,11 +27,11 @@
 
 **Tenemos algunas convenciones que... ¡deberías saber!**
 
-[] TODO: Añadir más detalles si se considera necesario
+[ ] TODO: Añadir más detalles si se considera necesario
 
 **También utilizamos robots como Travis**
 
-[] TODO: Añadir más detalles sobre las tareas... y como afectan al workflow
+[ ] TODO: Añadir más detalles sobre las tareas... y como afectan al workflow
 
 
 ### Reportar un error
@@ -53,7 +53,7 @@ Tanto si deseas hablar con nosotros sobre el proyecto como si deseas unirte... l
 
 Antes de hacer nada... es muy recomendado pasar un tiempo leyendo ["¿Cómo trabajamos aquí?"](#c%C3%B3mo-trabajamos-aqu%C3%AD)
 
-[] TODO: Definir pasos y detalles relevantes
+[ ] TODO: Definir pasos y detalles relevantes
 
 ### Código de conducta
 
