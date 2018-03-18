@@ -8,7 +8,6 @@
   * Dispositvo: _____
   * Sistema Operativo: _____
   * Navegador: _____
-  * {{Otro...}}: _____
   * ...
   
 ### Paso 3: Resumen del problema (240-500 carácteres):

@@ -6,37 +6,40 @@ Es un documento muy vivo, por lo que te recomendamos que lo revises cada poco ti
 
 #### Backlog producto
 
-[ ] TODO: Aquí se definen todas las funcionalidades que componen nuestro producto final.
+Aquí se definen todas las funcionalidades que componen nuestro producto final.
 
-- **Completar README:** Completar el README con los datos del equipo.
-- **Definir Roles:** Definir que va hacer cada integrante del equipo y en que puede ayudar.
-- **Logo** Crear un logo para el proyecto.
+- [ ] TODO
+
 
 #### Backlog técnico
 
-[ ] TODO: Aquí se definen todas las funcionalidades de caracter técnico que necsitamos desarrollar/integrar en nuestro producto
+Aquí se definen todas las funcionalidades de caracter técnico que necsitamos desarrollar/integrar en nuestro producto
 
-- **Proyecto en Firebase:** Crear un proyecto en Firebase
-- **Modelo de Datos:** Definir la estructura de la base de datos en Cloud FireStore.
-- **Normas de Estilo:** Elegir que Linter de JavaScript utilizamos, Preprocesador CSS, Tests?...
-- **Vue init:** General el scaffolding con Vue CLI (PWA Template)
+- [ ] **Proyecto en Firebase:** Crear el proyecto en Firebase
+- [ ] **Modelo de Datos:** Definir la estructura de la base de datos en Cloud FireStore.
+- [ ] **Normas de Estilo:** Elegir que Linter de JavaScript utilizamos, Preprocesador CSS, Tests?...
+- [ ] **Vue init:** General el scaffolding con Vue CLI (PWA Template)
+- [ ] TODO
 
 #### Otros elementos
 
-[ ] TODO: Aquí se definen todos lso elementos que no forman parte de del desarrollo del prodcuto tecnológico pero sí de su ciclo de vida como por ejemplo campañas promocionales en redes sociales, branding, etc...
+Aquí se definen todos lso elementos que no forman parte de del desarrollo del prodcuto tecnológico pero sí de su ciclo de vida como por ejemplo campañas promocionales en redes sociales, branding, etc...
 
-- **{{Nombre elemento}}:** {{Descripción Corta}}
-- ...
+- [ ] **Completar README:** Completar el README con los datos del equipo.
+- [ ] **Definir Roles:** Definir que va hacer cada integrante del equipo y en que puede ayudar.
+- [ ] **Logo** Crear un logo para el proyecto.
+- [ ] TODO
 
 
 #### Roadmap
 
-[ ] TODO: Aquí definimos lo que esperamos implementar de manera "muy generica" en próximas releases
+Aquí definimos lo que esperamos implementar de manera "muy generica" en próximas releases
 
-**{{Nombre de la release}} {{Número de Sprint}}:**
+**Kickoff - Sprint 0:**
 - Objetivos:
-  - {{elemento}}
-  - ...
-
-...
+  - Completar README con nuestros datos
+  - Definir funcionalidades en el Backlog de Producto
+  - Definir funcionalidades técnicas en su Backlog
+  - Crear proyecto en Firebase
+  - Crear el scaffolding del Frontend
 

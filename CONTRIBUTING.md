@@ -9,38 +9,41 @@
 
 ### ¿Cómo trabajamos aquí?
 
-[ ] TODO: Breve descripción de como funcionamos
+- [ ] TODO: Breve descripción de como funcionamos
 
 **Testing**
 
-[ ] TODO: Añadir y definir si es relevante
+- [ ] TODO: Añadir y definir si es relevante
 
 **Guía de estilos**
 
-[ ] TODO: Añadir referencia a la documentación si es relevante
+- [ ] TODO: Añadir referencia a la documentación si es relevante
 
-**Utilizamos Git Flow y esperamos gestionar los cambios con Pull Resquest(PR)**
+**Utilizamos [Git Flow](http://slides.com/tebagomez/guilds-scrum-agile#/8/14) y esperamos gestionar los cambios con Pull Request(PR)**
 
 * Todo el equipo necesita hacer un fork de este repositorio en su cuenta de Github.
-* Desde su copia *forkeada* hacer un clon en su entorno local.
-* Crear una rama desde la que trabajar y generar las pull request al repositorio central.
+* Desde la copia *forkeada* en tu cuenta hacer un clon en su entorno local.
+* Crear una rama desde la que trabajar y generar las PR al repositorio central.
+* Hasta la primera relase, podemos usar **Master** como rama principal.
+* Después de la primera release, crearemos una rama **Develop** donde subiremos las PR que originaremos desde nuestras cuentas.
 
 **Tenemos algunas convenciones que... ¡deberías saber!**
 
-[ ] TODO: Añadir más detalles si se considera necesario
+- [ ] TODO: Añadir más detalles si se considera necesario
 
 **También utilizamos robots como Travis**
 
-[ ] TODO: Añadir más detalles sobre las tareas... y como afectan al workflow
+- [ ] TODO: Añadir más detalles sobre las tareas... y como afectan al workflow
 
 
 ### Reportar un error
 Por favor, crea un [issue](/issues/new) donde especifiques lo siguiente:
+Puedes utilizar la siguiente [template](https://github.com/OSWeekends/kienba/blob/master/.osweekends/.github/ISSUE_TEMPLATE.md)
 - Resumen del problema (240-500 carácteres)
 - Pasos para reproducirlo (¿Qué tengo que hacer para generar ese error de nuevo?)
 - Comportamiento esperado (¿Qué debería de pasar si ese bug no existiera?)
 - Resultado final (¿Qué paso cuando se disparó el bug?)
-- Más información (Cualquier detalle relevante que nos ayude)
+- Más información (Cualquier detalle relevante que nos ayude.
 
 ### Hablar con el equipo
 
@@ -51,9 +54,7 @@ Tanto si deseas hablar con nosotros sobre el proyecto como si deseas unirte... l
 
 ### Mandar un PR
 
-Antes de hacer nada... es muy recomendado pasar un tiempo leyendo ["¿Cómo trabajamos aquí?"](#c%C3%B3mo-trabajamos-aqu%C3%AD)
-
-[ ] TODO: Definir pasos y detalles relevantes
+Antes de hacer nada... es muy recomendado pasar un tiempo leyendo ["¿Cómo trabajamos aquí?"](#c%C3%B3mo-trabajamos-aqu%C3%AD).
 
 ### Código de conducta
 
