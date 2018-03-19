@@ -16,16 +16,21 @@
 
 - [ ] TODO: ![Logo de {{proyecto}}]({{LOGO URL}})
 
-- [ ] TODO: En esta sección haremos una breve descripción de lo que va hacer nuestro proyecto
+Esta app consiste en que el profesor se loguea, crea una clase (un espacio de trabajo) y facilita a los usuarios y usuarias (alumnos) un PIN que corresponde a esa clase. Ellos y ellas se meterán en la clase donde podrán enviar preguntas introduciendo los siguientes campos: nombre, proyecto (opcional) y duda.  El profesor recibirá esas dudas en su dashboard y podrá priorizarlas para responderlas, ver si se repiten para resolverlas a toda la clase o resolverlas conforme van llegando (por turno de llegada).
 
 **Motivación**
 
-- [ ] TODO: Demos un sentido... ¿por qué estamos haciendo esto?
+Este proyecto parte de un problema que nos encontramos en las aulas: cuando trabajamos por grupos en la sesión de proyectos, el profesor se vuelve loco intentando atendernos a todas en turnos equitativos pero no lo consigue. Empezamos a apuntarnos en una pizarra para llevar un orden de turnos, pero este sistema deja de lado las prioridades, las dudas que pueden ser iguales o muy parecidas y el tiempo que se dedica a cada turno (o proyecto).
+ 
+De esta necesidad de ‘organizar’ de forma más equitativa la clase, surge el proyecto de Kienba: una app para ayudar a profesor@s y alumn@s a ‘organizar’ mejor la clase y conseguir una óptima interacción entre todos.
 
-### Equipo
+
+### Equipo y Roles
 
 - [ ] TODO: Rellenar con nuestros datos
  - [Aida Adalaber @Alienah](//github.com/Alienah) (Contributor - ROL)
+ - [Mónica Aguado @MoniAguado](//github.com/MoniAguado/) (Contributor - ROL)
+ - [Jorge Baumann @baumannzone](//github.com/baumannzone) (Contributor - ROL)
  - [Carlos Azaustre @carlosazaustre](//github.com/carlosazaustre) (Contributor - Frontend/Firebase)
  - ...
  - [{{Nombre @usuario}} ](//github.com/carlosazaustre) ({{ Contributor/Leader - ROL}})
