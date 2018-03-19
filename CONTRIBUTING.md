@@ -17,7 +17,11 @@
 
 **Guía de estilos**
 
-- [ ] TODO: Añadir referencia a la documentación si es relevante
+- **ESLint**: Utilizamos [ESLint](https://eslint.org/) como linter para controlar las normas de estilo de JavaScript. Usaremos [StandardJS](https://standardjs.com/) como set de reglas.
+- **EditorConfig**: Con el plugin de Editor Config seguiremos el siguiente estilo:
+  - Tamaño de tabulación: 2 espacios
+  - Insertar siempre una linea vacía a final de cada fichero
+- **NPM**: Cómo gestor de paquetes
 
 **Utilizamos [Git Flow](http://slides.com/tebagomez/guilds-scrum-agile#/8/14) y esperamos gestionar los cambios con Pull Request(PR)**
 
@@ -26,10 +30,6 @@
 * Crear una rama desde la que trabajar y generar las PR al repositorio central.
 * Hasta la primera relase, podemos usar **Master** como rama principal.
 * Después de la primera release, crearemos una rama **Develop** donde subiremos las PR que originaremos desde nuestras cuentas.
-
-**Tenemos algunas convenciones que... ¡deberías saber!**
-
-- [ ] TODO: Añadir más detalles si se considera necesario
 
 **También utilizamos robots como Travis**
 
