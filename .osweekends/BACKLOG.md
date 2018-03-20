@@ -7,7 +7,7 @@ Es un documento muy vivo, por lo que te recomendamos que lo revises cada poco ti
 #### Backlog equipo
 Aquí se definen las tareas a realizar y consensuar por todo el equipo antes de empezar a desarrollar el MVP
 
-- **Completar README:** Completar el README con los datos del equipo.
+- [ ] **Completar README:** Completar el README con los datos del equipo.
 - [ ] **Definir Roles:** Definir que va hacer cada integrante del equipo y en que puede ayudar.
 - [ ] Timing y estimación de tareas
 - [ ] Asignación de tareas
