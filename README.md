@@ -27,14 +27,24 @@ De esta necesidad de ‘organizar’ de forma más equitativa la clase, surge el
 
 ### Equipo y Roles
 
-- [ ] TODO: Rellenar con nuestros datos
+**Lider de Proyecto**:
+Responsable del Guild. 
+- PoC: [Mónica Aguado @MoniAguado](//github.com/MoniAguado/) (Contributor - ROL)
+
+**Product Owner**: 
+Responsable del Backlog (Producto y Técnico)
+- PoC: [Carlos Azaustre @carlosazaustre](//github.com/carlosazaustre) (Contributor - Frontend/Firebase)
+
+**Scrum Master**:
+Responsable de asignar que tareas del backlog van a cada Sprint
+- PoC: [Mónica Aguado @MoniAguado](//github.com/MoniAguado/) (Contributor - ROL)
+
+**Contributors**:
+Aportan al proyecto con ideas, flujo de trabajo, código, bugs, etc...
  - [Aida Adalaber @Alienah](//github.com/Alienah) (Contributor - ROL)
- - [Mónica Aguado @MoniAguado](//github.com/MoniAguado/) (Contributor - ROL)
  - [Jorge Baumann @baumannzone](//github.com/baumannzone) (Contributor - ROL)
  - [Carlos Azaustre @carlosazaustre](//github.com/carlosazaustre) (Contributor - Frontend/Firebase)
- - ...
- - [{{Nombre @usuario}} ](//github.com/carlosazaustre) ({{ Contributor/Leader - ROL}})
-
+ - [Mónica Aguado @MoniAguado](//github.com/MoniAguado/) (Contributor - ROL)
 
 ##### Agradecimientos
 
@@ -52,14 +62,16 @@ De esta necesidad de ‘organizar’ de forma más equitativa la clase, surge el
 ### Tecnología utilizada
 
 #### Dependencias
+
 - **firebase**: Base de datos (FireStore), Autenticación, Hosting,...
 - **firebase-functions**: Backend Serverless con Cloud Functions.
 - **vue**: Framework para el Frontend.
 - **vue-router**: Routing para la SPA.
 
 ### Cómo contribuir en el proyecto
-- [ ] TODO: Pequeña descripción motivante para enganchar con l@s potenciales contributors
 
+Por ahora somos bastantes personas en el proyecto y estamos en proceso de asignar tareas y algunos roles.
+Siempre son bienvenidas las Pull-Request y reporting de bugs en cualquier momento.
 **Más informacion en [CONTRIBUTING.md](CONTRIBUTING.md)**
 
 ### ¿Cómo usarlo?.
