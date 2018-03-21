@@ -12,6 +12,10 @@ script:
   - npm run build
 after_success:
   - firebase deploy --token $FIREBASE_TOKEN --non-interactive
+notifications:
+  email:
+    on_failure: change
+    on_success: change
 branches:
   only:
     - master
