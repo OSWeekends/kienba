@@ -67,7 +67,7 @@ footer
 
 ### Reportar un error
 Por favor, crea un [issue](/issues/new) donde especifiques lo siguiente:
-Puedes utilizar la siguiente [template](https://github.com/OSWeekends/kienba/blob/master/.osweekends/.github/ISSUE_TEMPLATE.md)
+Puedes utilizar la siguiente [template](https://github.com/OSWeekends/kienba/blob/master/docs/ISSUE_TEMPLATE.md)
 - Resumen del problema (240-500 carácteres)
 - Pasos para reproducirlo (¿Qué tengo que hacer para generar ese error de nuevo?)
 - Comportamiento esperado (¿Qué debería de pasar si ese bug no existiera?)

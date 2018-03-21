@@ -1,4 +1,4 @@
-![header](.osweekends/img/OSW-project-GitHub-template-header.jpg)
+![header](./docs/img/OSW-project-GitHub-template-header.jpg)
 
 
 ![travis](https://img.shields.io/travis/OSWeekends/kienba.svg)
@@ -21,7 +21,7 @@ Esta app consiste en que el profesor se loguea, crea una clase (un espacio de tr
 **Motivación**
 
 Este proyecto parte de un problema que nos encontramos en las aulas: cuando trabajamos por grupos en la sesión de proyectos, el profesor se vuelve loco intentando atendernos a todas en turnos equitativos pero no lo consigue. Empezamos a apuntarnos en una pizarra para llevar un orden de turnos, pero este sistema deja de lado las prioridades, las dudas que pueden ser iguales o muy parecidas y el tiempo que se dedica a cada turno (o proyecto).
- 
+
 De esta necesidad de ‘organizar’ de forma más equitativa la clase, surge el proyecto de Kienba: una app para ayudar a profesor@s y alumn@s a ‘organizar’ mejor la clase y conseguir una óptima interacción entre todos.
 
 
@@ -31,7 +31,7 @@ De esta necesidad de ‘organizar’ de forma más equitativa la clase, surge el
 Responsable del Guild. Coordina el equipo y las reuniones semanales de seguimiento.
 - PoC: [Mónica Aguado @MoniAguado](//github.com/MoniAguado/) (Contributor - ROL)
 
-**Product Owner**: 
+**Product Owner**:
 Responsable del Backlog (Producto y Técnico). Integra las Pull Requests realizando Code Reviews.
 - PoC: [Carlos Azaustre @carlosazaustre](//github.com/carlosazaustre) (Contributor - Frontend/Firebase)
 
@@ -100,4 +100,4 @@ Siempre son bienvenidas las Pull-Request y reporting de bugs en cualquier moment
 GNU General Public License v3.0
 
 
-![footer](.osweekends/img/OSW-project-GitHub-template-footer.jpg)
+![footer](./docs/img/OSW-project-GitHub-template-footer.jpg)
