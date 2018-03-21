@@ -58,7 +58,7 @@ Aportan al proyecto con ideas, flujo de trabajo, código, features, bugs, etc...
 
 ### Demo
 
-- [ ] TODO: Información de dónde puede verse funcionar... si es posible
+Puedes ver la aplicación funcionando en el siguiente enlace: [Demo](https://kienba-ec5bf.firebaseapp.com)
 
 ### Tecnología utilizada
 
