@@ -39,6 +39,8 @@ Aquí se definen todas las funcionalidades de caracter técnico que necsitamos d
 - [ ] Crear las colecciones/tablas en la base de datos
 - [x] **Normas de Estilo:** Elegir que Linter de JavaScript utilizamos, Preprocesador CSS, Tests?...
 - [x] **Vue init:** General el scaffolding con Vue CLI (PWA Template)
+- [ ] Configurar entorno de Testing
+- [ ] Configurar Travis
 - [ ] ...
 
 #### Otros elementos
