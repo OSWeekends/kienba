@@ -28,23 +28,24 @@ De esta necesidad de ‘organizar’ de forma más equitativa la clase, surge el
 ### Equipo y Roles
 
 **Lider de Proyecto**:
-Responsable del Guild. 
+Responsable del Guild. Coordina el equipo y las reuniones semanales de seguimiento.
 - PoC: [Mónica Aguado @MoniAguado](//github.com/MoniAguado/) (Contributor - ROL)
 
 **Product Owner**: 
-Responsable del Backlog (Producto y Técnico)
+Responsable del Backlog (Producto y Técnico). Integra las Pull Requests realizando Code Reviews.
 - PoC: [Carlos Azaustre @carlosazaustre](//github.com/carlosazaustre) (Contributor - Frontend/Firebase)
 
 **Scrum Master**:
-Responsable de asignar que tareas del backlog van a cada Sprint
+Responsable de asignar que tareas del backlog van a cada Sprint. Asigna las tareas a los contributors
 - PoC: [Mónica Aguado @MoniAguado](//github.com/MoniAguado/) (Contributor - ROL)
 
 **Contributors**:
-Aportan al proyecto con ideas, flujo de trabajo, código, bugs, etc...
- - [Aida Adalaber @Alienah](//github.com/Alienah) (Contributor - ROL)
- - [Jorge Baumann @baumannzone](//github.com/baumannzone) (Contributor - ROL)
- - [Carlos Azaustre @carlosazaustre](//github.com/carlosazaustre) (Contributor - Frontend/Firebase)
- - [Mónica Aguado @MoniAguado](//github.com/MoniAguado/) (Contributor - ROL)
+Aportan al proyecto con ideas, flujo de trabajo, código, features, bugs, etc...
+ - [Aida Adalaber @Alienah](//github.com/Alienah) (Contributor)
+ - [Jorge Baumann @baumannzone](//github.com/baumannzone) (Contributor)
+ - [Carlos Azaustre @carlosazaustre](//github.com/carlosazaustre) (Contributor - Full-Stack)
+ - [Mónica Aguado @MoniAguado](//github.com/MoniAguado/) (Contributor)
+ - [Juan Rodríguez @sjdonando](https://github.com/sjdonado) (Contributor)
 
 ##### Agradecimientos
 

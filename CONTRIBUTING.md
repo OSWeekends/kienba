@@ -9,7 +9,7 @@
 
 ### ¿Cómo trabajamos aquí?
 
-- [ ] TODO: Breve descripción de como funcionamos
+A continuación mostramos la forma y flujo de trabajo que utilizamos para coordinarnos y crear un proyecto Open Source desde cero.
 
 **Testing**
 
@@ -17,19 +17,48 @@
 
 **Guía de estilos**
 
-- **ESLint**: Utilizamos [ESLint](https://eslint.org/) como linter para controlar las normas de estilo de JavaScript. Usaremos [StandardJS](https://standardjs.com/) como set de reglas.
-- **EditorConfig**: Con el plugin de Editor Config seguiremos el siguiente estilo:
-  - Tamaño de tabulación: 2 espacios
-  - Insertar siempre una linea vacía a final de cada fichero
-- **NPM**: Cómo gestor de paquetes
+- **ESLint**: Utilizamos [ESLint](https://eslint.org/) como linter para controlar las normas de estilo de JavaScript. Usaremos [StandardJS](https://standardjs.com/) como set de reglas. Recomendamos instalarte un plugin de ESLint en tu editor de código para controlar éstas reglas y así tener un código unificado.
+- **EditorConfig**: Con éste archivo seguiremos otra serie de normas. Igualmente, recomendamos instalar un plugin de EditorConfig en tu editor de código para controlarlo mejor:
+  - Tamaño de tabulación: 2 espacios.
+  - Insertar siempre una linea vacía a final de cada fichero.
+- **NPM**: Cómo gestor de paquetes. v5.7.1 al menos.
 
 **Utilizamos [Git Flow](http://slides.com/tebagomez/guilds-scrum-agile#/8/14) y esperamos gestionar los cambios con Pull Request(PR)**
 
 * Todo el equipo necesita hacer un fork de este repositorio en su cuenta de Github.
-* Desde la copia *forkeada* en tu cuenta hacer un clon en su entorno local.
-* Crear una rama desde la que trabajar y generar las PR al repositorio central.
-* Hasta la primera relase, podemos usar **Master** como rama principal.
-* Después de la primera release, crearemos una rama **Develop** donde subiremos las PR que originaremos desde nuestras cuentas.
+* Desde la copia *forkeada* en tu cuenta personal, hacer un clon en tu entorno local.
+* Cada un@ desde su entorno local, debe trabajar bajo la rama `develop`.
+  * Si vas a arreglar un bug, crea una rama nueva que cuelgue de `develop` y llámala `bug-name`, siendo `name` una palabra descriptiva del bug.
+  * Si vas a desarrollar una feature, crea una rama nueva que cuelgue de `develop` y llámala `feature-name`, siendo `name` una palabra descriptiva de la feature.
+* En los commits, los mensajes deberán seguir el siguiente formato:
+```
+type: subject
+
+body
+
+footer
+```
+  * **Type**:
+  El tipo contiene un nombre de los siguientes:
+    * *feat*: Una nueva feature
+    * *fix*: Un bug fix
+    * *docs*: Cambios en la documentación
+    * *style*: Cambios en el formato (espaciados, puntos y comas, etc..) Sin cambios de código
+    * *refactor*: Refactorización del código de producción
+    * *test*: Añadidos Tests, refactoring de tests, sin cambiar nada de producción
+    * *chore*: Actualizar tareas de build, configuraciones, etc... sin cambiar nada de producción
+
+  * **Subject**:
+  No más de 50 caracteres. Descripción breve de lo que hace el commit.
+  * **Body**:
+  No todos los commits tienen por qué llevar un texto extenso, es opcional. Pero si necesitas explicar algo de forma más elaborada, este es el sitio.
+  Utilízalo para explicar el Qué y el Por Qué, en lugar del Cómo.
+  * **Footer**:
+  Es opcional. Úsalo para referenciar la issue de Github a la que corresponda.
+
+  Más info en [Git Syleguide de Udacity](http://udacity.github.io/git-styleguide/)
+
+* Todas las Pull Request deben hacerse desde una rama `feature-x` o `bug-x` del repositorio forkeado, a la rama `develop` del respositorio origen.
 
 **También utilizamos robots como Travis**
 
