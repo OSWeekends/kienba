@@ -29,28 +29,33 @@ De esta necesidad de ‘organizar’ de forma más equitativa la clase, surge el
 
 **Lider de Proyecto**:
 Responsable del Guild. Coordina el equipo y las reuniones semanales de seguimiento.
-- PoC: [Mónica Aguado @MoniAguado](//github.com/MoniAguado/) (Contributor - ROL)
+- [Mónica Aguado @MoniAguado](//github.com/MoniAguado/)
 
 **Product Owner**:
 Responsable del Backlog (Producto y Técnico). Integra las Pull Requests realizando Code Reviews.
-- PoC: [Carlos Azaustre @carlosazaustre](//github.com/carlosazaustre) (Contributor - Frontend/Firebase)
+- [Carlos Azaustre @carlosazaustre](//github.com/carlosazaustre)
 
 **Scrum Master**:
 Responsable de asignar que tareas del backlog van a cada Sprint. Asigna las tareas a los contributors
-- PoC: [Mónica Aguado @MoniAguado](//github.com/MoniAguado/) (Contributor - ROL)
+- [Mónica Aguado @MoniAguado](//github.com/MoniAguado/)
 
 **Contributors**:
 Aportan al proyecto con ideas, flujo de trabajo, código, features, bugs, etc...
  - [Aida Adalaber @Alienah](//github.com/Alienah) (Contributor)
+ - [Gala @gala1234](//github.com/gala1234) (Contributor)
+ - [Mª Virginia Rivas](//github.com/mariav53) (Contributor)
  - [Jorge Baumann @baumannzone](//github.com/baumannzone) (Contributor)
  - [Carlos Azaustre @carlosazaustre](//github.com/carlosazaustre) (Contributor - Full-Stack)
  - [Mónica Aguado @MoniAguado](//github.com/MoniAguado/) (Contributor)
  - [Juan Rodríguez @sjdonando](https://github.com/sjdonado) (Contributor)
+ - [Rubén @rubenGit](//github.com/rubenGit) (Contributor)
 
 ##### Agradecimientos
 
  - [Theba Gómez @KoolTheba](//github.com/KoolTheba) (Master of Guilds)
  - [Ulises Gascón @UlisesGascon](github.com/UlisesGascon) (Master of Open Source)
+ - [Carlos Hernández @CodingCarlos](//github.com/CodingCarlos) (Master of Beards)
+ - [Jose @Josheriff](//github.com/Josheriff) (Master of Gingers)
 
 ##### Necesitamos
 
