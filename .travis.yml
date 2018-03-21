@@ -8,8 +8,7 @@ install:
   - npm install -g --silent firebase-tools
   - npm install
 script:
-  - echo "Building and Deploying to Firebase Hosting"
-  - npm run build
+  - echo "Deploying to Firebase Hosting"
 after_success:
   - firebase deploy --token $FIREBASE_TOKEN --non-interactive
 notifications:
