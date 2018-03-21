@@ -1,10 +1,11 @@
-language: nodejs
-nodejs:
-- 8.10.0
+language: node_js
+node_js: stable
+cache:
+  directories:
+    - node_modules
+before_deploy:
+  - npm run build
 deploy:
   provider: firebase
   token:
     secure: iQ0bn5hzEQuoj23DOxFeE3sQj9dalH6WEmAIv9FClKDMc+HVr5QxJyrSOqmmN72kx8NuGq2uXDjO/UMIjUJKBMwzuSXw6HCqLmR8JSIaeFFBvsgip74BoTOnobPJAtzTpcWnbwVBcDIn+ejm88w8Lo9y+PyCXpkbSvHITumjd7JYmj195CcZXfTTeCw6xDOrk3BY2farcO0RAPbi5ZNAa/OvqTuB+hVznrkFagg0vO+Qldciaf/KO9vwHbI7xOfjARITsUdSU7cP5maVrua2Vc9dxLNYgiDn7kgNU39vSWCYh21dzURt8zWEsMgEhm8TjDsjtegssd4lLZSqm9mgrr0FS49PRmvGgwWctD/T501mcNthIoQNAHVChQMYCmWfDSqRW9X2nLIxv2/29cUnZPfsZP7ZtWtiloT/CdpOc3gjZsghClPY/BgU7/s700ZR4gDmGDqi4XGE7GScacTufGMkxHo8rBxPSKKgjnkGZVL5gPMMy9w5cD+iK1B5bjhgwmL9jgDUki+DAkqrGUFBcCvCIab37NmkPmsveISHKYy0MTOCpmcU43THP9JRcboObhVIcf99u8AacqAASIV/e1/8a242queHfhb7Cl23DRaU3gPKVSuG6eFJbSfqvrr2aLy86XOYOEsX3kTkEYGV/+F+WnJCffdfaMmcTzOYTmY=
-notifications:
-  email:
-    - kienba@googlegroups.com
